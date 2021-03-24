@@ -3,7 +3,7 @@ class Game{
         //
     }
     display(){
-        ;
+        //
     }
     getState(){
         var gameStateRef = database.ref('gameState');
